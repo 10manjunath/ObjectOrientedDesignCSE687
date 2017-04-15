@@ -1,0 +1,7 @@
+﻿  SemiExp.cpp
+c:\users\manjunath babu\documents\ood\project 1\manjunath babu project1 - final submission\semiexp\semiexp.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\manjunath babu\documents\ood\project 1\manjunath babu project1 - final submission\semiexp\semiexp.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\manjunath babu\documents\ood\project 1\manjunath babu project1 - final submission\semiexp\semiexp.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\manjunath babu\documents\ood\project 1\manjunath babu project1 - final submission\semiexp\semiexp.cpp(82): warning C4715: 'Scanner::SemiExp::endConditionCheck': not all control paths return a value
+c:\users\manjunath babu\documents\ood\project 1\manjunath babu project1 - final submission\semiexp\semiexp.cpp(139): warning C4715: 'Scanner::SemiExp::remove': not all control paths return a value
+  SemiExp.vcxproj -> C:\Users\Manjunath Babu\Documents\OOD\Project 1\Manjunath Babu Project1 - Final Submission\Debug\SemiExp.lib
