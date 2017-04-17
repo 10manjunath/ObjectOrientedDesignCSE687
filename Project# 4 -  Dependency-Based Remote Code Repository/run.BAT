@@ -1,0 +1,2 @@
+start "Server Application" Project4\x64\Debug\MsgServer.exe localhost:8081 ../Project4/ServerRepository
+start "WPF Application" Project4\Debug\CppCli-WPF-App.exe localhost:8082 localhost:8081 ../Project4/TestFiles

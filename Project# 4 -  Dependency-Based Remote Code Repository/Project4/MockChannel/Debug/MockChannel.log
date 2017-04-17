@@ -1,0 +1,18 @@
+﻿  MockChannel.cpp
+  XmlParser.cpp
+  xmlElementParts.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Tokenizer.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Sender.cpp
+  Receiver.cpp
+  MsgClient.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+     Creating library C:\Users\Manjunath Babu\Documents\OOD\Project 4\M\Project4Manjunath - BACKUP\Project4\Debug\MockChannel.lib and object C:\Users\Manjunath Babu\Documents\OOD\Project 4\M\Project4Manjunath - BACKUP\Project4\Debug\MockChannel.exp
+  MockChannel.vcxproj -> C:\Users\Manjunath Babu\Documents\OOD\Project 4\M\Project4Manjunath - BACKUP\Project4\Debug\MockChannel.dll

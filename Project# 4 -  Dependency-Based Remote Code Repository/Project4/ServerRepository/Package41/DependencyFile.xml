@@ -1,0 +1,69 @@
+<Metadata>
+    <Version1>
+      <Name>
+        Package41
+      
+      
+      </Name>
+      <Deps>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      </Author>
+      <IsClosed>
+        True
+      
+      
+      </IsClosed>
+      <Version>
+        1
+      
+      
+      </Version>
+    </Version1>
+    <Version2>
+      <Name>
+        Package41
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package7-Version15
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      </IsClosed>
+      <Version>
+        2
+      
+      </Version>
+    </Version2>
+    <Version2.1>
+      <Name>
+        Package41
+      </Name>
+      <Deps>
+        <Dep>
+          Package7-Version15
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      </Author>
+      <IsClosed>
+        False
+      </IsClosed>
+      <Version>
+        2.1
+      </Version>
+    </Version2.1>
+  </Metadata>
