@@ -1,0 +1,6 @@
+﻿  SemiExp.cpp
+c:\users\manjunath babu\documents\ood\project 2\manjunath babu 515114647 ood project 2\manjunath babu 515114647 ood project 2\project2\semiexp\semiexp.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+  Tokenizer.cpp
+  Generating Code...
+  SemiExp.vcxproj -> C:\Users\Manjunath Babu\Documents\OOD\Project 2\Manjunath Babu 515114647 OOD Project 2\Manjunath Babu 515114647 OOD Project 2\Project2\x64\Debug\SemiExp.lib

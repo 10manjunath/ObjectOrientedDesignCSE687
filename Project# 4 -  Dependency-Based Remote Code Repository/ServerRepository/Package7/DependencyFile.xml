@@ -1,0 +1,723 @@
+<Metadata>
+    <Version1>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version1>
+    <Version1>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        1.1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version1>
+    <Version1>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        1.2
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version1>
+    <Version2>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        2.3
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version2>
+    <Version3>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        3.4
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version3>
+    <Version4>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        4.5
+      
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version4>
+    <Version5>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        5.6
+      
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version5>
+    <Version6>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        6.7
+      
+      
+      
+      
+      
+      
+      </Version>
+    </Version6>
+    <Version7>
+      <Name>
+        Package7
+      
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        7.8
+      
+      
+      
+      
+      
+      </Version>
+    </Version7>
+    <Version8>
+      <Name>
+        Package7
+      
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      
+      </IsClosed>
+      <Version>
+        8.9
+      
+      
+      
+      
+      </Version>
+    </Version8>
+    <Version9>
+      <Name>
+        Package7
+      
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      
+      </IsClosed>
+      <Version>
+        9.10
+      
+      
+      
+      </Version>
+    </Version9>
+    <Version10>
+      <Name>
+        Package7
+      
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      
+      </IsClosed>
+      <Version>
+        10.11
+      
+      
+      </Version>
+    </Version10>
+    <Version11>
+      <Name>
+        Package7
+      
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      
+      </Author>
+      <IsClosed>
+        False
+      
+      </IsClosed>
+      <Version>
+        11.12
+      
+      </Version>
+    </Version11>
+    <Version12.13>
+      <Name>
+        Package7
+      </Name>
+      <Deps>
+        <Dep>
+          Package2-Version1
+        </Dep>
+      </Deps>
+      <Author>
+        Client1
+      </Author>
+      <IsClosed>
+        False
+      </IsClosed>
+      <Version>
+        12.13
+      </Version>
+    </Version12.13>
+  </Metadata>

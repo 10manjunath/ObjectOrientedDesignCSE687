@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!-- XML sample file -->
+<Metadata>
+    <name></name>      
+    <Deps>
+      <Dep>
+
+      </Dep>
+    </Deps>
+    <Author></Author>
+    <IsClosed></IsClosed>
+</Metadata>
